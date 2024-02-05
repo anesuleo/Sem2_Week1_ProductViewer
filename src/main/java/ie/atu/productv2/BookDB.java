@@ -29,7 +29,7 @@ public class BookDB {
             myBook.setPrice(54.50);
             myBook.setAuthor("Jim Lennon");
         }
-          
+
         return myBook;
     }
 }
