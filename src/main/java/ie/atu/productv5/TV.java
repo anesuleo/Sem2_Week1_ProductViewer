@@ -2,11 +2,11 @@ package ie.atu.productv5;
 
 import ie.atu.productv3.Product;
 
-public class tv extends Product {
+public class TV extends Product {
     private String screenSize;
     private String manufacture;
 
-    public tv(){
+    public TV(){
         super();
         screenSize = "";
         manufacture = "";
